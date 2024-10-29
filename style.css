@@ -1,1 +1,16 @@
+body{
+  colour: pink;}
 
+table, th, td,tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px pink;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px;}
