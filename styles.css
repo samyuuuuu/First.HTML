@@ -8,7 +8,7 @@ table, th, td, tr {
   border-collapse: collapse;
 }
 a:link, a:visited {
-  background-color: white;
+  background-color: pink;
   color: black;
   border: 2px pink;
   padding: 10px 20px;
