@@ -16,3 +16,7 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
   margin: 20px;}
+
+a:hover, a:active
+{background-color:#000000;
+  color: white;}
