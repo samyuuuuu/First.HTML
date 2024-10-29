@@ -15,7 +15,8 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 20px;}
+  margin: 20px;
+  width: 50px; }
 
 a:hover, a:active
 {background-color:#000000;
