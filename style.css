@@ -1,5 +1,6 @@
 body{
-  colour: pink;}
+  color: pink;
+text-align: center;}
 
 table, th, td,tr{
   border: 1px solid black;
