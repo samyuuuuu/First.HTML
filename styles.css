@@ -8,6 +8,12 @@ body{
   font-weight: bold;
 }
 
+.heading {
+  color: white;
+  font-weight: 20px;
+  highlight: #b7e4c7;
+}
+
 table, th, td, tr {
   border: 1px solid black;
   border-collapse: collapse;
