@@ -3,6 +3,10 @@ body{
   text-align: center;
   background-color:#31493C;
 }
+#textintable {
+  color:white;
+  font-weight: bold;
+}
 
 table, th, td, tr {
   border: 1px solid black;
