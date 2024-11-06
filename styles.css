@@ -9,9 +9,9 @@ body{
 }
 
 .heading {
-  color: green;
+  color: white;
   font-weight: 900;
-  backround-color:#b7e4c7;
+  backround-color: #b7e4c7;
 }
 
 table, th, td, tr {
