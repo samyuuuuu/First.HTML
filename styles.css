@@ -22,7 +22,9 @@ table, th, td, tr {
 
 
 a.one:hover {background:# #7A9E7E;}
-a.one: {color: #B3EFB2;}
+a.one: {color: green;}
+
+/*
 a.one: {border: 2px green;}
 a.one: {padding: 10px 20px;}
 a.one {text-align: center;}
@@ -30,11 +32,14 @@ a.one {text-decoration: none;}
 a.one {display: inline-block;}
 a.one {margin: 20px;}
 a.one {font-size: 30px;}
+*/
 
 a.two { color:white;}
 a.two:hover {color:black;}
-a.two {font-weight: bold;}
 
+/*
+a.two {font-weight: bold;}
+*/
   
 
 
