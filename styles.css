@@ -32,7 +32,7 @@ a.one {margin: 20px;}
 a.one {font-size: 30px;}
 
 a.two { color:white;}
-a.two:hover {color:#white;}
+a.two:hover {color:black;}
 a.two {font-weight: bold;}
 a.three:hover {background: #000000;}
   
