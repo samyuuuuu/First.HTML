@@ -18,7 +18,7 @@ table, th, td, tr {
   border: 1px solid black;
   border-collapse: collapse;
 }
-a:link, a:visited {
+a:one, a:visited {
   background-color: #7A9E7E;
   color: #B3EFB2;
   border: 2px green;
@@ -29,9 +29,10 @@ a:link, a:visited {
   margin: 20px;
   font-size: 30px;}
 
-.2ndlink {
+a.two {
   color:white;
-  font-weight: bold;}
+  font-weight: bold;
+a.one:hover {color:#ffcc00;}}
   
 
 a:hover, a:active
