@@ -29,6 +29,12 @@ a:link, a:visited {
   margin: 20px;
   font-size: 30px;}
 
+.link {
+  color:white;
+  background-color:#31493C;
+  font-weight: bold;}
+  
+
 a:hover, a:active
 {background-color:#000000;
   color: white;}
