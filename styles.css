@@ -14,6 +14,10 @@ body{
   background-color: #52b788;
 }
 
+.td{
+text-align: left;
+}
+
 table, th, td, tr {
   border: 1px solid black;
   border-collapse: collapse;
@@ -27,7 +31,7 @@ a.one {
   border: 2px green;
 */
 }
-
+/*
 .button {
   background-color: #DA7635;
   border: none;
@@ -38,16 +42,14 @@ a.one {
   width: 470px;
   height:300px;
 }
-
+*/
 
 
 .button:hover {
   background-color: black;
-
- 
   color: white;
 }
-/*
+
 .button {
   background-color: #DA7635;
   border: none;
@@ -58,28 +60,18 @@ a.one {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  transition-duration: 0.4s;
   cursor: pointer;
   font-size: 50px;
   width: 470px;
   height:300px;
 }
-*/
+
 
 
  
-  color: white;
-}
 
-/*
-a.one: {border: 2px green;}
-a.one: {padding: 10px 20px;}
-a.one {text-align: center;}
-a.one {text-decoration: none;}
-a.one {display: inline-block;}
-a.one {margin: 20px;}
-a.one {font-size: 30px;}
-*/
+
+
 
 a.two { color:white;}
 a.two:hover {color:black;}
