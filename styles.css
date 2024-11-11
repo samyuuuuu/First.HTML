@@ -3,10 +3,11 @@ body{
   text-align: center;
   background-color:#31493C;
 }
+
 .subheading {
   color:white;
-  font-weight: bold
-  font-family: Georgia;
+  font-weight:bold
+  font-family:Georgia;
 }
 
 .heading {
