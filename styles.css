@@ -12,6 +12,7 @@ body{
 
 .heading {
   color: white;
+  height: 50px;
   font-weight: 800;
   background-color: #95A78D;
   font-family: Georgia;
