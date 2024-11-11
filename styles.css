@@ -16,6 +16,13 @@ body{
   font-family: Georgia;
 }
 
+.topic {
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+}
+
+  
 .text {
 text-align: left;
 font-family: Verdana;
