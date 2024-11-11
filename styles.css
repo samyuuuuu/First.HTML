@@ -39,6 +39,7 @@ table, th, td, tr {
   font-size: 35px;
   width: 500px;
   height:100px;
+  font-family: Verdana;
 }
 
 .button:hover {
