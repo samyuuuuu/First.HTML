@@ -12,7 +12,7 @@ body{
 .heading {
   color: white;
   font-weight: 900;
-  background-color: #52b788
+  background-color: #A3C9A8;
   font-family: Georgia;
 }
 
@@ -27,16 +27,9 @@ table, th, td, tr {
 }
 
 
-/*
-a.one:hover {background-color:yellow;}
-a.one {
-  color: green;
-  border: 2px green;
-*/
-}
-/*
+
 .button {
-  background-color: #DA7635;
+  background-color: #69A297;
   border: none;
   color: white;
   padding: 16px 32px;
@@ -45,7 +38,7 @@ a.one {
   width: 470px;
   height:300px;
 }
-*/
+
 
 
 .button:hover {
@@ -53,6 +46,7 @@ a.one {
   color: white;
 }
 
+/*
 .button {
   background-color: #DA7635;
   border: none;
@@ -67,8 +61,9 @@ a.one {
   font-size: 50px;
   width: 470px;
   height:300px
-  font-family: Georgia;
+  font-family:Georgia;
 }
+*/
 
 
 
